@@ -312,5 +312,5 @@ If you use Jeeves, its training recipe or its drafter, please cite:
 - Hu et al. [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685). ICLR 2022.
 - MiniMax. [MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](https://arxiv.org/abs/2506.13585). 2025. Introduces CISPO.
 - Guo, Pleiss, Sun, Weinberger. [On Calibration of Modern Neural Networks](https://arxiv.org/abs/1706.04599). ICML 2017. Temperature scaling.
-- [Orthrus](https://arxiv.org/abs/2605.12825), arXiv 2605.12825. The diffusion drafter ours adapts to Gated DeltaNet.
+- [Orthrus](https://arxiv.org/abs/2605.12825), arXiv 2605.12825. Our diffusion drafter adapts to Gated DeltaNet.
 - Leviathan, Kalman, Matias. [Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/abs/2211.17192). ICML 2023.
